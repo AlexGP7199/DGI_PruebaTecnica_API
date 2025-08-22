@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGI-PruebaTecnica.Applicati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGI-PruebaTecnica.API", "DGI-PruebaTecnica.API\DGI-PruebaTecnica.API.csproj", "{D9857BB6-68C9-44CF-A673-3DE57D924EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGI-PruebaTecnica.Test", "DGI-PruebaTecnica.Test\DGI-PruebaTecnica.Test.csproj", "{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{D9857BB6-68C9-44CF-A673-3DE57D924EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9857BB6-68C9-44CF-A673-3DE57D924EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9857BB6-68C9-44CF-A673-3DE57D924EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{9A5D7BA5-6A10-4A68-8F46-858C8761F691} = {B20DED74-9B6E-4CEA-846C-A183B56BCC62}
 		{2581059F-FE57-46E7-B8D5-007835AE8E28} = {B20DED74-9B6E-4CEA-846C-A183B56BCC62}
 		{D9857BB6-68C9-44CF-A673-3DE57D924EF7} = {B20DED74-9B6E-4CEA-846C-A183B56BCC62}
+		{4A356B71-3F36-40B5-9B72-BE2D2AB2A6AE} = {0FDC296B-515F-405C-B62D-97B13A47F2F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8A738-A2C9-4839-B315-9DC75321E380}
